@@ -393,7 +393,7 @@ logo = ("""\033[1;32m
 \033[1;33m  | |_| |/ /_ / /_ / ___ \| |___ 
 \033[1;32m  \___//____/____/_/   \_\_____|
 \033[1;33m 
-                                              
+                                   FUCK YOUR SYESTEM🖕           
 
 
 
@@ -403,9 +403,9 @@ logo = ("""\033[1;32m
  
 ••••••••••••••••••••••••••••••••••••••••••••••••••\033[1;33m
   \033[1;32mAuther  : MD UZZAL HOSSAIN 
-  \033[1;33mYouTube :Gangstar World Hacker Boyz
+  \033[1;33mYouTube :GANGSTAR WORLD
   \033[1;32mFecbook :MD UZZAL HOSSAIN 
-   \033[1;33m Admin. :UZZAL X SHAMIM
+   \033[1;33m Admin. :UZZAL X 
 ••••••••••••••••••••••••••••••••••••••••••••••••••\033[1;32m""")
 
 class Main:
@@ -860,7 +860,7 @@ class Main:
 			"Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36[FBAN/EMA;FBLC/it_IT;FBAV/239.0.0.10.109;]"
 		])
 		sys.stdout.write(
-			"\r [ BALOCH ] %s/%s -> Ok:-%s - Cp:-%s "%(self.loop, len(self.id), len(self.cp), len(self.ok))
+			"\r [ UZZAL ] %s/%s -> Ok:-%s - Cp:-%s "%(self.loop, len(self.id), len(self.cp), len(self.ok))
 		); sys.stdout.flush()
 		for pw in pwx:
 			pw = pw.lower()
