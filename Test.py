@@ -1,3 +1,4 @@
+UZZAL-TRICKER-A3D2629EEE-M4786==
 #UZZAL
 # Time Succes decompile : 2022-05-22 23:34:12.924217
 W = '\033[97;1m'
